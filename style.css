@@ -40,7 +40,7 @@ code {
     color:green;
 }
 a:link{
-    color:blue;
+    color:green;
 }
 a:visted{
     color:black;
@@ -49,5 +49,5 @@ a:hover {
     color:red;
 }
 a:active{
-    color:green;
+    color:blue;
 }
