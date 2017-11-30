@@ -37,6 +37,7 @@ code {
 }
 #font-practice p{
     font-style: italic;
+    color:green;
 }
 a:link{
     color:blue;
